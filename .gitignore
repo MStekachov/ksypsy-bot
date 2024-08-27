@@ -1,0 +1,8 @@
+# Папки
+node_modules/
+vscode/
+dist/
+
+# Файлы
+.env
+package-lock.json
